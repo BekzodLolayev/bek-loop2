@@ -133,6 +133,7 @@ img {
   padding-bottom: 8px;
   border: 0;
   border-bottom: 1px solid #555;
+  outline: none;
 }
 
 .profile-settings-form-field-textarea {
